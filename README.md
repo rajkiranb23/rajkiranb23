@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajkiranb23
-- 👀 I’m interested in ...FUll Stack Web Development and Solving Problems 
+- 👀 I’m interested in ...Full Stack Web Development and Solving Problems 
 - 🌱 I’m currently learning ...MERN stack web development and problem solving with Java and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rajkiranb023@gmail.com
